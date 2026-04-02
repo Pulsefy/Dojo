@@ -24,7 +24,6 @@ Built for speed, low fees, and community fun — perfect for creators in Nigeria
    ```bash
    git clone https://github.com/pulsefy/dojo.git
    cd dojo
-
 Install dependencies:Bash# Frontend
 cd frontend && yarn install
 
@@ -90,7 +89,8 @@ Transparent treasury and governance coming after mainnet.
 
 
 Links
----------------------------------------------
+Stellar Developers: https://developers.stellar.org
+
 
 Built with ❤️ for the Stellar ecosystem — especially creators in Africa.
 Launch your first meme today and let's make Stellar the most fun and accessible chain!
