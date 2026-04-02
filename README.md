@@ -36,48 +36,23 @@ Connect your Freighter wallet, upload a meme, and launch your first test coin on
 
 Full setup guide → docs/SETUP.md
 
-Tech Stack
+## 🛠️ Tech Stack
+
+| Layer | Technology |
+| :--- | :--- |
+| **Smart Contracts** | Rust + Soroban (Stellar) |
+| **Frontend** | React + TypeScript + Tailwind CSS |
+| **Wallet** | Freighter Wallet integration |
+| **Backend** | Node.js / TypeScript (indexing & API) |
+| **Blockchain** | Stellar (Testnet → Futurenet → Mainnet) |
+| **Privacy** | X-Ray (Protocol 25) ZK proofs |
+| **UI** | Tailwind + shadcn/ui |
+
+> [!NOTE]
+> **Base:** Extended from open-source Stellar token launchpad examples.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-LayerTechnologySmart ContractsRust + Soroban (Stellar)FrontendReact + TypeScript + Tailwind CSSWalletFreighter Wallet integrationBackendNode.js / TypeScript (indexing & API)BlockchainStellar (Testnet → Futurenet → Mainnet)PrivacyX-Ray (Protocol 25) ZK proofsUITailwind + shadcn/ui
-Base: Extended from open-source Stellar token launchpad examples.
-
-Roadmap (Brief)
+## 🗺️ Roadmap (Brief)
 Dojo is being built in iterative phases targeting a mainnet launch in 2026.
 
 Phase 1: Core token minting + basic bonding curve on Testnet
